@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+
+
+}
+
+.btn-primary{
+    background-color: orange;
+    margin-top: 20px;
+    padding: 20px 35px;
+    border: 0;
+    border-radius: 7%;
+    font-size: 18px;
+    color:aliceblue;
+    font-weight: bold;
+
+}
+
+.banner-back-img{
+    background-image: url("../banner/banner1.png");
+    background-repeat: no-repeat;
+    /* background-size:initial; */
+    height: 1000px;
+}
+
+.banner-description{
+    text-align:right;
+    padding: 240px 150px;
+    
+    
+}
+
+.banner-title{
+    font-size: 50px;
+
+
+}
+
+.banner-messege{
+    color:gray;
+    padding-top:20px;
+    
+}
