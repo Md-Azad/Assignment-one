@@ -114,8 +114,69 @@ ul li{
     text-align: center;
 }
 
-/* .plan-wish{
-    margin-left: 30px;
-   
+.color-mix{
+    background-image: url(../gradient1.png),url(../watch.png);
+    background-repeat: no-repeat;
+    height: 300px;
+    margin-left: 200px;
+    margin-top: 80px;
+    margin-bottom: 50px;
+    border-radius: 1%;
+}
+.set-text{
+    padding-left: 50px;
+    padding-top: 80px;
+    font-size: 30px;
+    color:aliceblue
+}
+
+/* footer styles */
+
+.footer-style{
+    padding-top: 75px;
+}
+
+.future{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color:aliceblue;
+    padding: 60px;
+}
+
+.footer-title{
+    font-size: 60px;
+}
+.footer-description{
+    color:bisque;
+}
+
+.future-description p{
+    padding-top: 30px;
+}
+
+.foo-icons{
+    padding-top: 20px;
+    padding-right: 5px;
+}
+
+/* .subscribe{
+    padding-top: 50px;
+    margin-right: 200px;
+    
 } */
 
+.sub-title{
+    padding-bottom: 20px;
+}
+.sub-input{
+    background-color: black;
+    border: 3px solid white;
+    /* outline-color: aliceblue; */
+    border-radius: 2%;
+    color:white;
+    padding-left: 20px;
+    font-weight: bold;
+    height: 50px;
+    width: 250px;
+}
