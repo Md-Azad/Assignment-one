@@ -78,3 +78,44 @@ ul li{
     color:green;
 }
 
+/* Styles for plans part */
+
+.plan-headline{
+    text-align: center;
+    margin: 50px 0;
+    font-size: 40px;
+    font-weight: 1200;
+}
+
+.plans-name{
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+    padding-bottom: 50px;
+}
+
+.plan-img{
+    margin-left: 60px;
+    /* text-align: center; */
+    
+}
+.js-img{
+    margin-left: 20px;
+}
+.plan h2{
+    
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 30px;
+   
+    
+}
+.plan h4{
+    text-align: center;
+}
+
+/* .plan-wish{
+    margin-left: 30px;
+   
+} */
+
