@@ -66,8 +66,8 @@
 
 .fail-description{
     color: rgb(85, 77, 77);
-    line-height: 2em;
-    font-size: 20px;
+    line-height: 1.8em;
+    font-size: 18px;
     
 }
 ul li{
@@ -142,6 +142,7 @@ ul li{
     background-color: black;
     color:aliceblue;
     padding: 60px;
+    
 }
 
 .footer-title{
@@ -153,6 +154,7 @@ ul li{
 
 .future-description p{
     padding-top: 30px;
+    
 }
 
 .foo-icons{
@@ -160,11 +162,11 @@ ul li{
     padding-right: 5px;
 }
 
-/* .subscribe{
+.subscribe{
     padding-top: 50px;
     margin-right: 200px;
     
-} */
+}
 
 .sub-title{
     padding-bottom: 20px;
