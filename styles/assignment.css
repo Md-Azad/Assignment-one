@@ -149,6 +149,41 @@ ul li{
     
 }
 
+/* bonus */
+.bonus{
+    display: flex;
+    gap:30px;
+    justify-content: center;
+    text-align: left;
+    
+    
+    /* background-color: antiquewhite; */
+}
+
+.skill-title{
+    text-align: center;
+    color:blueviolet;
+    padding-bottom: 40px;
+    text-decoration: underline;
+}
+.bonus h2{
+    text-align: center;
+    padding-bottom: 15px;
+}
+.skill{
+    color:black;
+    background-color: rgb(194, 191, 188);
+    box-shadow: 2px 2px 2px 2px rgb(236, 206, 206);
+    height: 300px;
+    width: 350px;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+
+
+
+/* footer styles */
+
 .footer-title{
     font-size: 60px;
     padding-left: 150px;
