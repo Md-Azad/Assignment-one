@@ -115,9 +115,13 @@ ul li{
 }
 
 .color-mix{
-    background-image: url(../gradient1.png),url(../watch.png);
+    background-image:linear-gradient(to right, rgba(224, 5, 5, 0.8),rgba(136, 68, 68, 0.4)),
+     url(../watch.png);
+    /* background: linear-gradient(45deg, rgba(53, 53, 236, 0.6) 50%,rgba(235, 137, 137, 0.4) 50%, url(../watch.png); */
     background-repeat: no-repeat;
+    /* background: url(../gradient1.png), ; */
     height: 300px;
+    width: 1100px;
     margin-left: 200px;
     margin-top: 80px;
     margin-bottom: 50px;
@@ -147,6 +151,7 @@ ul li{
 
 .footer-title{
     font-size: 60px;
+    padding-left: 150px;
 }
 .footer-description{
     color:bisque;
@@ -154,12 +159,14 @@ ul li{
 
 .future-description p{
     padding-top: 30px;
+    padding-left: 150px;
     
 }
 
 .foo-icons{
     padding-top: 20px;
     padding-right: 5px;
+    
 }
 
 .subscribe{
@@ -181,4 +188,8 @@ ul li{
     font-weight: bold;
     height: 50px;
     width: 250px;
+}
+
+.icons{
+    padding-left: 150px;
 }
