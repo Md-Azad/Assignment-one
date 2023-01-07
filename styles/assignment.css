@@ -117,9 +117,9 @@ ul li{
 .color-mix{
     background-image:linear-gradient(to right, rgba(224, 5, 5, 0.8),rgba(136, 68, 68, 0.4)),
      url(../watch.png);
-    /* background: linear-gradient(45deg, rgba(53, 53, 236, 0.6) 50%,rgba(235, 137, 137, 0.4) 50%, url(../watch.png); */
+    
     background-repeat: no-repeat;
-    /* background: url(../gradient1.png), ; */
+    
     height: 300px;
     width: 1100px;
     margin-left: 200px;
