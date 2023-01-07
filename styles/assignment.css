@@ -155,9 +155,11 @@ ul li{
     gap:30px;
     justify-content: center;
     text-align: left;
-    
-    
-    /* background-color: antiquewhite; */
+}
+
+.bonus h2{
+    text-align: center;
+    padding-bottom: 15px;
 }
 
 .skill-title{
@@ -166,10 +168,7 @@ ul li{
     padding-bottom: 40px;
     text-decoration: underline;
 }
-.bonus h2{
-    text-align: center;
-    padding-bottom: 15px;
-}
+
 .skill{
     color:black;
     background-color: rgb(194, 191, 188);
